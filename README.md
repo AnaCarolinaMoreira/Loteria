@@ -24,4 +24,5 @@ para gerar cada jogo e salve este array multidimensional no atributo “Jogos”
 01 e 60. Os n´umeros n˜ao podem se repetir e devem estar em ordem crescente. O
 array resultante dever´a ser armazenado no atributo “Resultado”.
 • 7 - Desenvolver um m´etodo que confere todos os jogos e retorna uma tabela HTML
-que contem os jogos e quantas dezenas foram sorteadas em cada jogo
+que contem os jogos e quantas dezenas foram sorteadas em cada jogo  
+
